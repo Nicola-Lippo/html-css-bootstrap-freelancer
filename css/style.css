@@ -1,0 +1,41 @@
+/*********
+SCELTE PER BOOTSTRAP PX VARI DISPOSITIVI
+MOBILE FIRST <576px   niente
+TEBLET  ≥768px          md
+PC ≥992px               lg
+**********/
+
+header {
+    background-color: #2C3E50;
+    color: white;
+}
+
+.green {
+    background-color: #1ABC9C;
+}
+
+/* PORTFOLIO */
+
+.red {
+    background-color: #BA4B63;
+}
+
+.azzurro {
+    background-color: #1EA4B6;
+}
+
+.black {
+    background-color: black;
+}
+
+.azzurro-2 {
+    background-color: #1C83C1;
+}
+
+.blu {
+    background-color: #0E38B5;
+}
+
+.brown {
+    background-color:#CCB2A3 ;
+}
