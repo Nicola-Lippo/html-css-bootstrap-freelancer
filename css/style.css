@@ -10,32 +10,37 @@ header {
     color: white;
 }
 
-.green {
+.me-green {
     background-color: #1ABC9C;
+}
+
+.me-quadrato {
+    height: 200px;
+    border-radius: 10px;
 }
 
 /* PORTFOLIO */
 
-.red {
+.me-red {
     background-color: #BA4B63;
 }
 
-.azzurro {
+.me-azzurro {
     background-color: #1EA4B6;
 }
 
-.black {
+.me-black {
     background-color: black;
 }
 
-.azzurro-2 {
+.me-azzurro-2 {
     background-color: #1C83C1;
 }
 
-.blu {
+.me-blu {
     background-color: #0E38B5;
 }
 
-.brown {
+.me-brown {
     background-color:#CCB2A3 ;
 }
